@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gomoku</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt_standalone">StandAlone</string>
+    <string name="bt_bt">Bluetooth</string>
+    <string name="bt_net">Network</string>
+</resources>
