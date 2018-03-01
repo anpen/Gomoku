@@ -4,4 +4,24 @@
     <string name="bt_standalone">StandAlone</string>
     <string name="bt_bt">Bluetooth</string>
     <string name="bt_net">Network</string>
+
+    <string name="not_available">n/a</string>
+    <string name="scanner_title">Select a device:</string>
+    <string name="scanner_empty">No devices found</string>
+    <string name="scanner_action_scan">Scan</string>
+    <string name="scanner_action_cancel">Cancel</string>
+    <string name="scanner_subtitle_bonded">Bond devices:</string>
+    <string name="scanner_subtitle_not_bonded">Available devices:</string>
+
+    <!-- Options Menu -->
+    <string name="secure_connect">Connect a device - Secure</string>
+    <string name="insecure_connect">Connect a device - Insecure</string>
+    <string name="discoverable">Make discoverable</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bt_connect">Connect</string>
+    <string name="board_clear">Clear</string>
+    <string name="board_sound">Sound</string>
+    <string name="board_back">Back</string>
 </resources>
